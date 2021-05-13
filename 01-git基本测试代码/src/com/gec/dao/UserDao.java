@@ -1,4 +1,4 @@
-package com.hec.dao;
+package com.gec.dao;
 
 public interface UserDao {
 	
