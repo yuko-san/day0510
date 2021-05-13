@@ -3,7 +3,7 @@ package com.hec.dao;
 public interface UserDao {
 	
 	void addUser();
-	//卫三又加了一个aa方法
+	//寮犱笁鍙堝垱寤轰簡涓�涓猘a
 	void aa();
 
 }
